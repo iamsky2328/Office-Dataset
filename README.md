@@ -1,4 +1,4 @@
-## **Project Title:** Unveiling Insights into Office Operations through SQL Analysis
+# **Project Title:** Unveiling Insights into Office Operations through SQL Analysis
 
 **Project Overview:**
 In the domain of office management, data plays a crucial role in enhancing processes and efficiency. This project aimed to extract valuable insights from an office dataset using SQL queries, providing a comprehensive understanding of various aspects of office operations.
